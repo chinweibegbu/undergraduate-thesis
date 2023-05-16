@@ -1,4 +1,4 @@
-# TinyML for the Detection of Plant Diseases in Resource-Constrained Areas within West Africa
+# TinyML for the Identification of Plant Diseases in Resource-Constrained Areas within West Africa
 Undergraduate Thesis <br />
 Ashesi University <br />
 Completed April 2023
