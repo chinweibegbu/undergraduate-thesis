@@ -162,6 +162,8 @@ void setup()
 */
 void loop()
 {
+  // Uncomment lines 167 to 171 to view how long it takes for the data capture and processing to occur
+
   // unsigned long startTime = millis();
   ei_classify();
   // unsigned long currentTime = millis();

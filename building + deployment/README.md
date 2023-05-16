@@ -1,6 +1,6 @@
 # Building & Deployment
 
-This project uses [Edge Impulse](https://www.edgeimpulse.com/) and the Arduino IDE to help build this project and facilitate deployment. 
+This project uses [Edge Impulse](https://www.edgeimpulse.com/) and the Arduino IDE to help build this project and facilitate deployment. The `classifier_esp32cam_arduino.ino` file contains the end result of the process below and will *not* function on independent of following all the other steps involved. It is adviced to view this file as a guide rather than a source to directly deploy onto your device.
 
 **NOTE:** This series of steps does *not* contain the inclusion of a switch which is done using a rocker switch with:
 1. A GND terminal to connect the GND of the battery holder and the GND of the microcontroller
