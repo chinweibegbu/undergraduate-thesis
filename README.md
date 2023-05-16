@@ -19,7 +19,7 @@ Class distribution after dataset formatting:
 | **Total**                         | **1517**               | **100%**             |
 
 ## Technologies Used
-1. EEspressif ESP32-CAM
+1. Espressif ESP32-CAM
 2. [Edge Impulse](https://www.edgeimpulse.com/)
 3. Arduino IDE v2
 4. Jupyter Notebook
